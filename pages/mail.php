@@ -42,7 +42,7 @@ if(isset($_SESSION["correo"]))
     //Username to use for SMTP authentication - use full email address for gmail
     $mail->Username = 'jamesf6888@gmail.com';
     //Password to use for SMTP authentication
-    $mail->Password = 'howardKratos';
+    $mail->Password = '';
     //Set who the message is to be sent from
     $mail->setFrom('jamesf6888@gmail.com', 'WORM Postals');
     //Set an alternative reply-to address
