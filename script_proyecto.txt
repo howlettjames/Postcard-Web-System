@@ -1,0 +1,16 @@
+1. Crear Cuenta
+    - Validación si ya hay correo existente
+2. Editar Información:
+    - Se pueden actualizar todos los datos, incluyendo el correo o la foto, e incluso ambos a la vez
+3. Cerrar Sesión
+4. Menú, se puede cambiar de categoría
+5. Enviar postal
+    - Generación de pdf y envio de mail
+6. Bandeja de salida
+7. Bandeja de entrada
+8. Actualizar postales
+9. Actualizar usuarios
+10. Reporte
+11. Vista General
+
+

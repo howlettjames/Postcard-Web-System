@@ -1,0 +1,12 @@
+*.o
+*.out
+*.exe
+*.xlsx
+*.class
+*.zip
+*.gz
+*.jpg
+*.png
+pages/vendor
+todas
+
