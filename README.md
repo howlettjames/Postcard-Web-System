@@ -1,6 +1,6 @@
 # Postcards Web System
 
-### This is a project done for the subject "Web Technologies" taken at ESCOM - IPN. The purpose of this project was to learn how to build a fully responsive non static web site to provide a postcard mailing service.
+### This is a project done for the subject Web Technologies taken at ESCOM - IPN. The purpose of this project was to learn how to build a fully responsive non static web site to provide a postcard mailing service.
 
 ## Task
 
