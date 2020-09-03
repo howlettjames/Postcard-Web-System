@@ -1,6 +1,6 @@
 # Postcards Web System
 
-### This is a project done during the course "Web Technologies" taken at ESCOM - IPN. The purpose of this project was to learn how to build a web system.
+### This is a project done for the subject "Web Technologies" taken at ESCOM - IPN. The purpose of this project was to learn how to build a web system.
 
 ## Task
 
