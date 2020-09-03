@@ -1,10 +1,10 @@
 # Postcards Web System
 
-### This is a project done for the subject "Web Technologies" taken at ESCOM - IPN. The purpose of this project was to learn how to build a web system.
+### This is a project done for the subject "Web Technologies" taken at ESCOM - IPN. The purpose of this project was to learn how to build a fully responsive non static web site to provide a postcard mailing service.
 
 ## Task
 
-Build a Web System for a Web Postcard Mailing service like the one at [Example](https://gusanito.com/#!/postales/todas/todas).
+Build a Web Site for a Web Postcard Mailing service like the one at [Example](https://gusanito.com/#!/postales/todas/todas).
 
 ## Summary
 This site provides a service that allows users to send and receive Electronic Postcards. The admin is provided with weekly reports of most liked categories, genre of the users, age of users, most liked postcards and so on. The admin is responsible for uploading or erasing Postcards in the system.
