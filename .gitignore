@@ -5,8 +5,8 @@
 *.class
 *.zip
 *.gz
-*.jpg
-*.png
 pages/vendor
 todas
+fotos
+cards
 
