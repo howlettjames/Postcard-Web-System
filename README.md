@@ -7,7 +7,7 @@
 Build a Web System for a Web Postcard Mailing service like the one at [Example](https://gusanito.com/#!/postales/todas/todas).
 
 ## Summary
-This site provides a service that allows users to send and receive Electronic Postcards. The admin is provided with weekly reports of how many postcards were sent, of which category and so on. The admin is responsible for uploading or erasing Postcards in the system.
+This site provides a service that allows users to send and receive Electronic Postcards. The admin is provided with weekly reports of most liked categories, genre of the users, age of users, most liked postcards and so on. The admin is responsible for uploading or erasing Postcards in the system.
 
 ## Tech Stack
 * PHP
@@ -30,4 +30,14 @@ This site provides a service that allows users to send and receive Electronic Po
 * Each user will have an Inbox and Outbox section.
 * The user will be allowed to create an account and modifying any personal information like the Profile Picture at any time
 * The admin will be capable of erasing any account.
-* The admin will be provided with weekly reports including: most sent Postcard, how many Postcards were sent by category, most active users.
+* The admin will be provided with weekly reports including: most liked categories, genre of the users, age of users, most liked postcards and so on.
+
+## Requirements
+
+* MySQL Workbench.
+* LAMPP (Remember to put the project inside /opt/lampp/htdocs).
+* Run on a Linux Distribution (Ubuntu recommended).
+
+## How it looks
+
+![Page]( "Page")
