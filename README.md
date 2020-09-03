@@ -40,4 +40,8 @@ This site provides a service that allows users to send and receive Electronic Po
 
 ## How it looks
 
-![Page]( "Page")
+![Page](https://github.com/howlettjames/Postcards-Web-System/blob/master/Test/worm.png "Page")
+
+![Page](https://github.com/howlettjames/Postcards-Web-System/blob/master/Test/worm1.png "Page")
+
+![Page](https://github.com/howlettjames/Postcards-Web-System/blob/master/Test/worm2.png "Page")
